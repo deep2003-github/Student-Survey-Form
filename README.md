@@ -1,3 +1,3 @@
 # Student-Survey-Form
 Form made using HTML and CSS.
-This can be used by any Institution or Organisation
+This can be utilized by any Institution or Organisation
